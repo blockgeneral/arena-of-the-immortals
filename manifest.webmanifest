@@ -1,0 +1,17 @@
+{
+  "name": "Arena of the Immortals",
+  "short_name": "AOI Arena",
+  "description": "A turn-based 3v3 strategy battle set in the world of Aethera. Early playable prototype.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#0c0e1a",
+  "theme_color": "#0c0e1a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
