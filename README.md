@@ -8,7 +8,9 @@ This is an early prototype. You can battle the AI opponent, or duel a friend: pr
 
 Private duels are meant for friends: this early version is not protected against cheating.
 
-This repository holds only the built page (`index.html`). It is replaced whenever a new build is published.
+New here? Press Play, then Tutorial. On a phone you can add the page to your home screen and it opens full screen like an app.
+
+This repository holds only the built game. It is replaced whenever a new build is published.
 
 ## Credits
 
